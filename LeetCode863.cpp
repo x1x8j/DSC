@@ -20,7 +20,7 @@
 //};
 //
 //queue<Node*>q;
-//vector<Node*>st;//ģ��ջ
+//vector<Node*>st;//Ä£ÄâÕ»
 //vector<Node*>res;
 //Node* root = NULL;
 //
@@ -84,7 +84,7 @@
 //					}
 //				}
 //				if (temp->data == target) {
-//					flag2 = true;//Ŀ����Ҫ��ջ
+//					flag2 = true;//Ä¿±ê½áµãÒª³öÕ»
 //					int now=st.size()-1;
 //					if (now >= k) {
 //						distance = now - k;
