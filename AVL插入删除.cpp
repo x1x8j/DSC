@@ -161,7 +161,7 @@ node* del(node* root, char data) {
 
 
 int main() {
-
+	int n1,n2;
 	cin >> n1;
 	char c;
 	node* root = NULL;
